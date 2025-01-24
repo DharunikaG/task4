@@ -1,1 +1,11 @@
 # task4
+AR/VR design
+
+**COMPANY** : CODETECH IT SOLUTIONS
+**NAME** : DHARUNIKA G
+**INTERN ID** : CT08FSH
+**DOMAIN** :  UI/UX DESIGN
+**BATCH DURATION** :  DECEMBER 25th, 2024 to JANUARY 25th, 2025.
+**MENTOR NAME** : NEELA SANTHOSH
+
+For this project i designed music application
